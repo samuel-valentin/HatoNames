@@ -1,0 +1,3 @@
+C:/Users/Valentin/Documents/GitHub/HatONames/cmake-build-debug/CMakeFiles/HatONames.dir
+C:/Users/Valentin/Documents/GitHub/HatONames/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Valentin/Documents/GitHub/HatONames/cmake-build-debug/CMakeFiles/rebuild_cache.dir
